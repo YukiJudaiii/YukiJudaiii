@@ -55,7 +55,3 @@ Here are some ideas to get you started:
 ## 📊 My GitHub Stats
 
 ![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiJudaiii&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-## 🗣 Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=YukiJudaiii&layout=compact&theme=tokyonight)
