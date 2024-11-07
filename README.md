@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ## 🗣 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiJudaiii&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=YukiJudaiii&layout=compact&theme=tokyonight)
