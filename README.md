@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🚀 Featured Projects
 
 - **[MHA Digital Intervention (IAI Lab)](https://www.josephjaywilliams.com/projects_1#h.ic037dqderjo):** Developed personalized mental health modules using the MOOClet engine, optimized data analysis workflows, and integrated feedback mechanisms for user engagement.
-- **[Campus Eats](https://www.linkedin.com/company/campus-eats-linkedin/):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
+- **[Campus Eats](https://github.com/CampusEatsUofT):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
 - **[MoveMatch AI Motion Analysis](https://www.movematch.ca/):** Enhanced data visualization for an AI-driven motion analysis app, achieving a 60% improvement in landmark smoothing using React, Next.js, and FastAPI.
 
 ## 🔧 Skills and Tools
