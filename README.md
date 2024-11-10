@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 🌍 Originally from Jilin, China, I’m always open to connecting with people from different backgrounds and exploring new perspectives.
 
+## 🚀 Featured Projects
+
+- **[MHA Digital Intervention (IAI Lab)](https://www.josephjaywilliams.com/projects_1#h.ic037dqderjo):** Developed personalized mental health modules using the MOOClet engine, optimized data analysis workflows, and integrated feedback mechanisms for user engagement.
+- **[Campus Eats](https://www.linkedin.com/company/campus-eats-linkedin/):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
+- **[MoveMatch AI Motion Analysis](https://www.movematch.ca/):** Enhanced data visualization for an AI-driven motion analysis app, achieving a 60% improvement in landmark smoothing using React, Next.js, and FastAPI.
+
 ## 🔧 Skills and Tools
 
 - **Languages:** C/C++, Python, Java, JavaScript, TypeScript, R, SQL
@@ -41,11 +47,6 @@ Here are some ideas to get you started:
 - Enhancing my understanding of **cloud database security** and **performance optimization** through coursework and hands-on projects at Huawei.
 - Expanding my skills in **machine learning** and **data analysis** for healthcare applications, inspired by my work on the MHA project.
 
-## 🚀 Featured Projects
-
-- **[MHA Digital Intervention (IAI Lab)](https://www.josephjaywilliams.com/projects_1#h.ic037dqderjo):** Developed personalized mental health modules using the MOOClet engine, optimized data analysis workflows, and integrated feedback mechanisms for user engagement.
-- **[Campus Eats](https://www.linkedin.com/company/campus-eats-linkedin/):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
-- **[MoveMatch AI Motion Analysis](https://www.movematch.ca/):** Enhanced data visualization for an AI-driven motion analysis app, achieving a 60% improvement in landmark smoothing using React, Next.js, and FastAPI.
 
 ## 📫 Let’s Connect!
 
