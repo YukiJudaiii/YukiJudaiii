@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🌍 Originally from Jilin, China, I’m always open to connecting with people from different backgrounds and exploring new perspectives.
 
-## 🚀 Featured Projects
+## 🚀 Research Projects
 
 - **[MHA Digital Intervention (IAI Lab)](https://www.josephjaywilliams.com/projects_1#h.ic037dqderjo):** Developed personalized mental health modules using the MOOClet engine, optimized data analysis workflows, and integrated feedback mechanisms for user engagement.
 - **[Campus Eats](https://github.com/CampusEatsUofT):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
