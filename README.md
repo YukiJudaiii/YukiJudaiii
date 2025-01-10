@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - **[Campus Eats](https://github.com/CampusEatsUofT):** Led the development of a customer support platform with ticket processing and order support features using React, TypeScript, Firebase, and MUI, receiving positive feedback for intuitive UI design.
 - **[MoveMatch AI Motion Analysis](https://www.movematch.ca/):** Enhanced data visualization for an AI-driven motion analysis app, achieving a 60% improvement in landmark smoothing using React, Next.js, and FastAPI.
 
+- - **[IQBank (Currently)](https://github.com/iqbank):** A web and mobile application where students are able to upload exam questions, categorize them, and collectively solve the problems. Instructors are also encouraged to upload their own exam questions and endorse student solutions. With enough data in the question bank, students who want to study for an exam can use AI-assisted tools to build a midterm, final exam, or simply to do practice questions with staged repetitions. 
+
 ## 🔧 Skills and Tools
 
 - **Languages:** C/C++, Python, Java, JavaScript, TypeScript, R, SQL
