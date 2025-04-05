@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025.
 
-💻 I’m currently a Cloud Assistant Engineer Co-op at Huawei Technologies Canada. I work on innovative projects like GaussDB and Multi-Master, gaining hands-on experience in database optimization and cloud infrastructure.
-
 🔬 Previously, I worked at the Intelligent Adaptive Interventions (IAI) Lab, developing and optimizing personalized digital mental health modules, and collaborating with cross-functional teams to enhance user engagement and data analysis.
 
 🌟 My primary interests lie in **Software Engineering**, **Database Management**, and **AI-driven applications**. I’m passionate about creating scalable, impactful solutions and exploring how technology can enhance human well-being.
