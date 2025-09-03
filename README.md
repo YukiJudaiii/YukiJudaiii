@@ -39,8 +39,8 @@
 
 ## 📫 How to Reach Me  
 
-- LinkedIn: [linkedin.com/in/houyi-chen](https://www.linkedin.com/in/houyi-chen)  
-- Email: houyichen97@gmail.com  
+- LinkedIn: [linkedin.com/in/houyi-chen](https://www.linkedin.com/in/houyi-chen-0b5961231/)  
+- Email: vincentchy1208@gmail.com 
 
 ---
 ✨ *“For me, the beauty lies in the pursuit itself, not just the results. I keep moving forward, learning and contributing along the way.”*  
