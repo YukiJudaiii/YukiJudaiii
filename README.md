@@ -29,9 +29,6 @@
 - **Campus Eats (GitHub Project)** – Software Developer  
   Led development of the admin portal with customer support features, designed modular system architecture, and built with React, TypeScript, Firebase, and MUI.  
 
-## 📊 My GitHub Stats  
-
-![Houyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiJudaiii&show_icons=true&theme=radical)  
 
 ## 🗣 Languages  
 
