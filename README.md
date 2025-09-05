@@ -18,7 +18,13 @@
 ## 🔭 Experience & Projects  
 
 - **Huawei Technologies Canada** – Cloud Database Assistant Engineer Co-op  
-  Worked on cutting-edge projects like GaussDB, Multi-Master, and On-Demand Backups. Built benchmark testing scripts, debugged MySQL/PostgreSQL, and collaborated in a fast-paced corporate environment.  
+  Worked on cutting-edge projects like GaussDB, Multi-Master, and On-Demand Backups. Built benchmark testing scripts, debugged MySQL/PostgreSQL, and collaborated in a fast-paced corporate environment.
+
+- **Bosch – GenAI-Powered Knowledge Structuring (CMU Collaboration)** – Student Software Developer  
+  Collaborating with Bosch Research as part of a CMU team on a GenAI system for structuring unstructured enterprise knowledge.  
+
+- **IQBank** – Web Application Developer  
+  Built the front page of a collaborative exam-preparation platform using React, improving navigation smoothness and user experience for students.  
 
 - **MoveMatch (U of T Hatchery Startup)** – Web Application Developer  
   Developed real-time pose landmark rendering features for an AI-driven physical therapy app, improving visualization and smoothing by 60%.  
