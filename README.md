@@ -23,7 +23,7 @@
 - **Bosch – GenAI-Powered Knowledge Structuring (CMU Collaboration)** – Student Software Developer  
   Collaborating with Bosch Research as part of a CMU team on a GenAI system for structuring unstructured enterprise knowledge.  
 
-- **IQBank** – Web Application Developer  
+- **IQBank** – Web Application Developer  [Demo](https://iqbank.teach.cs.toronto.edu/)
   Built the front page of a collaborative exam-preparation platform using React, improving navigation smoothness and user experience for students.  
 
 - **MoveMatch (U of T Hatchery Startup)** – Web Application Developer  
@@ -32,7 +32,7 @@
 - **MHA Intelligent Adaptive Interventions Lab** – Software Developer  
   Optimized digital mental health modules with Python, SQL, and Django REST.  
 
-- **Campus Eats (GitHub Project)** – Software Developer  
+- **Campus Eats (GitHub Project)** – Software Developer [Link](https://www.linkedin.com/company/campus-eats-linkedin/about/)        
   Led development of the admin portal with customer support features, designed modular system architecture, and built with React, TypeScript, Firebase, and MUI.  
 
 
