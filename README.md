@@ -23,7 +23,8 @@
 - **Bosch – GenAI-Powered Knowledge Structuring (CMU Collaboration)** – Student Software Developer  
   Collaborating with Bosch Research as part of a CMU team on a GenAI system for structuring unstructured enterprise knowledge.  
 
-- **IQBank** – Web Application Developer  [Demo](https://iqbank.teach.cs.toronto.edu/) 
+- **IQBank** – Web Application Developer  [Demo](https://iqbank.teach.cs.toronto.edu/)
+
   Built the front page of a collaborative exam-preparation platform using React, improving navigation smoothness and user experience for students.  
 
 - **MoveMatch (U of T Hatchery Startup)** – Web Application Developer  
