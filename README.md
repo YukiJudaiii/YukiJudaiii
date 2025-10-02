@@ -39,10 +39,6 @@
   Led development of the admin portal with customer support features, designed modular system architecture, and built with React, TypeScript, Firebase, and MUI.  
 
 
-## 🗣 Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiJudaiii&layout=compact&theme=radical)  
-
 ## 📫 How to Reach Me  
 
 - LinkedIn: [linkedin.com/in/houyi-chen](https://www.linkedin.com/in/houyi-chen-0b5961231/)  
