@@ -2,7 +2,7 @@
 
 ## 😄 About Me  
 
-🎓 I’m currently a Master’s student in **Software Engineering** at [Carnegie Mellon University](https://www.cmu.edu/), Class of 2026.  
+🎓 I’m currently a Master’s student in **Software Engineering** at [Carnegie Mellon University](https://www.cmu.edu/) (expect to graduate in Decemeber 2026).  
 💻 I hold an Honours Bachelor of Science in **Computer Science** from the [University of Toronto](https://web.cs.toronto.edu/).  
 🌱 I’m passionate about building scalable systems, AI-driven applications, and tools that solve real-world problems.  
 🌏 Originally from China, I’ve studied and worked in Toronto and now Silicon Valley as I pursue my dream to grow as a software engineer.
