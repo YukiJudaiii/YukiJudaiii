@@ -1,4 +1,4 @@
-# Hi there, I'm Houyi Chen! 👋
+# Hi there, I'm Houyi (Vincent) Chen! 👋
 
 ## 😄 About Me  
 
